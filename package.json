@@ -1,13 +1,11 @@
 {
-  "name": "com.jere655.unity-ai-eclipse",
+  "name": "com.fuze.unity-ai-chat",
   "version": "1.0.0",
-  "displayName": "Unity AI Eclipse",
-  "description": "Plugin d'IA conversationnelle pour Unity avec création d'objets 3D par commandes. Bilingue FR/EN.",
-  "unity": "2020.3",
-  "keywords": ["ai", "chat", "claude", "unity", "3d", "scene creator"],
+  "displayName": "Unity AI Chat Scene Creator",
+  "description": "Chat IA (OpenAI + Gemini) qui crée des objets dans la scène Unity.",
+  "unity": "2021.3",
   "author": {
-    "name": "Jere655",
-    "url": "https://github.com/Jere655"
+    "name": "Fuze"
   },
   "dependencies": {
     "com.unity.textmeshpro": "3.0.6"
