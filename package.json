@@ -1,0 +1,15 @@
+{
+  "name": "com.jere655.unity-ai-eclipse",
+  "version": "1.0.0",
+  "displayName": "Unity AI Eclipse",
+  "description": "Plugin d'IA conversationnelle pour Unity avec création d'objets 3D par commandes. Bilingue FR/EN.",
+  "unity": "2020.3",
+  "keywords": ["ai", "chat", "claude", "unity", "3d", "scene creator"],
+  "author": {
+    "name": "Jere655",
+    "url": "https://github.com/Jere655"
+  },
+  "dependencies": {
+    "com.unity.textmeshpro": "3.0.6"
+  }
+}
