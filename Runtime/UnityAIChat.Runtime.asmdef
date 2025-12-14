@@ -1,1 +1,4 @@
-
+{
+  "name": "UnityAIChat.Runtime",
+  "autoReferenced": true
+}
