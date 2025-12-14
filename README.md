@@ -13,8 +13,7 @@ Supporte **OpenAI** et **Gemini** avec switch.
 ## Installation
 Unity → Window → Package Manager  
 → Add package from git URL  
-→ [https://github.com/TON_USER/unity-ai-chat.git](https://github.com/Jere655/unity-ai-Eclipse.git
-)
+→ https://github.com/Jere655/unity-ai-Eclipse.git
 
 ## Configuration
 Définir les clés API en variables d’environnement.
